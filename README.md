@@ -17,7 +17,9 @@ En esta versión las variables se representan de la siguiente forma:
 
 En esta versión las variables se representan de la siguiente forma:
 
-Luz: Aumenta/disminuye el brillo del "sol", de acuerdo a los valores de luz obtenidos
-Humedad: Se despliega en pantalla su valor
-Temperatura: Se representa mediante un termometro.
+ * Luz: Aumenta/disminuye el brillo del "sol", de acuerdo a los valores de luz obtenidos
+ * Humedad: Se despliega en pantalla su valor
+ * Temperatura: Se representa mediante un termometro.
+ 
+Los reportes del proyecto, así como un video explicando el uso de la tarjeta Texas Launchpad lo pueden encontrar aquí: http://tareas.tripley.net/sensores-temperatura-termistor-ntc-humedad-hih-4030/
 
